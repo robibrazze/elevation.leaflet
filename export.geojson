@@ -1,0 +1,822 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-10-28T08:50:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233600078",
+        "addr:housenumber": "16",
+        "addr:place": "Frazione Panice Sottana",
+        "building": "yes",
+        "name": "Hotel Panice",
+        "phone": "+39 0171 928136",
+        "source": "bing",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://www.albergopanice.it/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566389,
+          44.1802558
+        ]
+      },
+      "id": "way/233600078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233600647",
+        "addr:housenumber": "1",
+        "addr:place": "Casali Bragard",
+        "name": "Bragard",
+        "phone": "+39 0171 928977",
+        "source": "bing",
+        "tourism": "hotel",
+        "website": "http://www.bragardhotel.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5628469,
+          44.1806461
+        ]
+      },
+      "id": "way/233600647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389954078",
+        "addr:city": "Limone Piemonte",
+        "addr:housenumber": "26",
+        "addr:place": "Case San Lorenzo",
+        "addr:postcode": "12015",
+        "amenity": "restaurant",
+        "building": "house",
+        "building:levels": "2",
+        "ele": "1505",
+        "email": "chaletdesmerveilleslimone@gmail.com",
+        "name": "Chalet des Merveilles",
+        "phone": "+33 787916029",
+        "tourism": "guest_house",
+        "website": "https://it.chaletdesmerveilleslimone.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.552748,
+          44.1611204
+        ]
+      },
+      "id": "way/389954078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389954081",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "45",
+        "addr:postcode": "12016",
+        "addr:street": "Via Genova",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Grand Hotel Principe",
+        "phone": "+39 0171 92389",
+        "tourism": "hotel",
+        "website": "https://www.hotel-principe-limone.it/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5808501,
+          44.1994652
+        ]
+      },
+      "id": "way/389954081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389954082",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Statale 20",
+        "amenity": "restaurant",
+        "building": "yes",
+        "email": "info@edelweisslimone.it",
+        "name": "Hotel Edelweiss",
+        "phone": "+39 0171 928138",
+        "source": "bing",
+        "tourism": "hotel",
+        "website": "http://www.edelweisslimone.it/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565924,
+          44.1804478
+        ]
+      },
+      "id": "way/389954082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389954083",
+        "building": "yes",
+        "name": "Hotel Excelsior",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5773062,
+          44.2018588
+        ]
+      },
+      "id": "way/389954083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1059435332",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "39",
+        "addr:postcode": "12015",
+        "addr:street": "Corso Torino",
+        "caravans": "no",
+        "name": "Luis Matlas",
+        "phone": "+39 0171 927565",
+        "tents": "yes",
+        "tourism": "camp_site",
+        "website": "http://www.luismatlas.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5731932,
+          44.2083351
+        ]
+      },
+      "id": "node/1059435332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2956230315",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "61",
+        "addr:place": "Corso Nizza",
+        "addr:postcode": "12015",
+        "guest_house": "bed_and_breakfast",
+        "leisure": "sauna",
+        "name": "B&B La Montanina",
+        "phone": "+39 0171 921 24; +39 328 739 6153",
+        "tourism": "guest_house",
+        "website": "http://www.lamontanina-limone.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5702133,
+          44.1916976
+        ]
+      },
+      "id": "node/2956230315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2956231691",
+        "email": "info@hoteltripoli.it",
+        "fax": "+39 0171 927776",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Tripoli",
+        "phone": "+39 0171 92397",
+        "smoking": "no",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "http://www.hoteltripoli.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5777097,
+          44.2000491
+        ]
+      },
+      "id": "node/2956231691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726165139",
+        "addr:city": "Limone Piemonte",
+        "addr:housenumber": "9",
+        "addr:postcode": "12015",
+        "addr:street": "Via San Secondo",
+        "ele": "1035",
+        "name": "Hotel Marguareis",
+        "phone": "+39 0171 927567",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "http://www.hotelmarguareis.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5783846,
+          44.200963
+        ]
+      },
+      "id": "node/3726165139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6178134626",
+        "amenity": "restaurant",
+        "contact:phone": "+39 0171 927970",
+        "guest_house": "agritourism",
+        "name": "L'Agrifoglio Agriturismo",
+        "tourism": "guest_house",
+        "website": "http://www.agriturismoagrifoglio.it/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5697588,
+          44.2246347
+        ]
+      },
+      "id": "node/6178134626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6605819345",
+        "amenity": "restaurant",
+        "guest_house": "bed_and_breakfast",
+        "name": "Barcollo",
+        "phone": "+39 0171 926704",
+        "tourism": "guest_house",
+        "website": "https://www.barcollolimone.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5785682,
+          44.2185966
+        ]
+      },
+      "id": "node/6605819345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6605819346",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "85",
+        "addr:place": "Frazione Panice",
+        "addr:postcode": "12015",
+        "amenity": "restaurant",
+        "name": "Locanda del colle",
+        "phone": "+39 0171 928169",
+        "tourism": "hotel",
+        "website": "http://www.locandadelcolle.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5687271,
+          44.167828
+        ]
+      },
+      "id": "node/6605819346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6610224907",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "101",
+        "addr:place": "Panice Soprana",
+        "addr:postcode": "12015",
+        "amenity": "restaurant",
+        "cuisine": "italian;regional",
+        "guest_house": "bed_and_breakfast",
+        "name": "Chalet 1400",
+        "phone": "+39 0171 928183",
+        "tourism": "guest_house",
+        "website": "http://www.chalet1400.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5685367,
+          44.1665043
+        ]
+      },
+      "id": "node/6610224907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6610224911",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:place": "Frazione Panice Soprana",
+        "addr:postcode": "12015",
+        "amenity": "restaurant",
+        "name": "ChaletMorel",
+        "phone": "+39 345 762 7636",
+        "tourism": "hotel",
+        "website": "https://www.chaletmorel.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5613806,
+          44.1666332
+        ]
+      },
+      "id": "node/6610224911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722772",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "54",
+        "addr:postcode": "12015",
+        "addr:street": "Corso Nizza",
+        "internet_access:fee": "yes",
+        "name": "Borgo Fantino",
+        "phone": "+39 0171 926669",
+        "tourism": "apartment",
+        "website": "http://www.borgofantino.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5684825,
+          44.1912307
+        ]
+      },
+      "id": "node/6618722772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722773",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:postcode": "12015",
+        "addr:street": "Via San Giovanni",
+        "contact:phone": "+39 0171 92242",
+        "name": "Lu Carfat",
+        "number_of_apartments": "32",
+        "tourism": "apartment",
+        "website": "http://www.lucarfat.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5838357,
+          44.1991682
+        ]
+      },
+      "id": "node/6618722773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722775",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "19",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "internet_access:fee": "yes",
+        "name": "Chalets Mignon",
+        "phone": "+39 0171 926677",
+        "tourism": "chalet",
+        "website": "http://www.villateresa-chaletsmignon.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5786191,
+          44.2012905
+        ]
+      },
+      "id": "node/6618722775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722776",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "21",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "internet_access:fee": "yes",
+        "name": "Chalets Mignon",
+        "phone": "+39 0171 926677",
+        "tourism": "chalet",
+        "website": "http://www.villateresa-chaletsmignon.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5783831,
+          44.2014857
+        ]
+      },
+      "id": "node/6618722776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722777",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "19",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "internet_access:fee": "yes",
+        "name": "Villa Maria Teresa",
+        "phone": "+39 0171 926677",
+        "tourism": "apartment",
+        "website": "http://www.villateresa-chaletsmignon.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5781216,
+          44.201601
+        ]
+      },
+      "id": "node/6618722777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722778",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "12015",
+        "addr:street": "Piazza Risorgimento",
+        "internet_access:fee": "yes",
+        "name": "Limone Palace",
+        "phone": "+39 0171 926965",
+        "tourism": "hotel",
+        "website": "http://www.limonepalace.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5774175,
+          44.2031778
+        ]
+      },
+      "id": "node/6618722778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722779",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "2c",
+        "addr:postcode": "12015",
+        "addr:street": "Via Roma",
+        "internet_access:fee": "yes",
+        "name": "Fiocco di Neve Relais",
+        "phone": "+39 0171 926352",
+        "tourism": "hotel",
+        "website": "http://www.fioccodineverelais.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576932,
+          44.2022144
+        ]
+      },
+      "id": "node/6618722779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722780",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "59",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "beds": "24",
+        "name": "Petit Meublè",
+        "phone": "+39 0171 926132",
+        "rooms": "14",
+        "tourism": "hotel",
+        "website": "https://www.hotelpetitmeuble.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5817949,
+          44.1988109
+        ]
+      },
+      "id": "node/6618722780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722781",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "38",
+        "addr:postcode": "12015",
+        "addr:street": "Via Roma",
+        "contact:email": "info@lapiazzettalimone.it",
+        "contact:mobile": "+39 335 7235635",
+        "contact:phone": "+39 0171 926575",
+        "contact:website": "http://www.lapiazzettalimone.it",
+        "internet_access": "wlan",
+        "name": "La Piazzetta",
+        "operator": "S.P.R.I.N.T. S.R.L.",
+        "ref:vatin": "IT02469180042",
+        "smoking": "outside",
+        "stars": "3",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5759012,
+          44.2012424
+        ]
+      },
+      "id": "node/6618722781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722782",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "26",
+        "addr:postcode": "12015",
+        "addr:street": "Via Almellina",
+        "guest_house": "bed_and_breakfast",
+        "internet_access:fee": "yes",
+        "name": "L'Artisin",
+        "phone": "+39 0171 92380",
+        "tourism": "guest_house",
+        "website": "http://www.hotelartisin.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.588613,
+          44.1992638
+        ]
+      },
+      "id": "node/6618722782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618722783",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "9",
+        "addr:postcode": "12015",
+        "addr:street": "Corso Nizza",
+        "internet_access:fee": "yes",
+        "name": "Hotel Piccolo Parco",
+        "phone": "+39 0171 927874",
+        "rooms": "14",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "https://www.piccoloparco.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5754447,
+          44.1985606
+        ]
+      },
+      "id": "node/6618722783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6619245550",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:place": "Panice Soprana",
+        "addr:postcode": "12015",
+        "internet_access:fee": "yes",
+        "name": "Chalet Massyl",
+        "number_of_apartments": "3",
+        "tourism": "apartment",
+        "website": "http://www.chaletmassyl.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5673994,
+          44.1679281
+        ]
+      },
+      "id": "node/6619245550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6619245555",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "11",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "email": "emanuelapesce1@virgilio.it",
+        "guest_house": "bed_and_breakfast",
+        "internet_access:fee": "yes",
+        "name": "B&B La casa dei gatti",
+        "phone": "+39 347 2727789; +39 347 4654270",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5764915,
+          44.2023025
+        ]
+      },
+      "id": "node/6619245555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6619245556",
+        "addr:city": "Limone",
+        "addr:country": "IT",
+        "addr:housenumber": "16",
+        "addr:place": "Via Maestra",
+        "addr:postcode": "12015",
+        "guest_house": "bed_and_breakfast",
+        "internet_access:fee": "yes",
+        "name": "B&B Abric",
+        "phone": "+393482902263",
+        "tourism": "guest_house",
+        "website": "http://www.bbabric.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5556953,
+          44.1737994
+        ]
+      },
+      "id": "node/6619245556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6619245557",
+        "addr:city": "Limone Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "9",
+        "addr:postcode": "12015",
+        "addr:street": "Via Giuseppe Viale",
+        "guest_house": "bed_and_breakfast",
+        "name": "La Casetta del Dahu",
+        "phone": "+39 366 871 0673; +39 348 310 6520",
+        "tourism": "guest_house",
+        "website": "http://www.lacasettadeldahu.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5768053,
+          44.201519
+        ]
+      },
+      "id": "node/6619245557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7026123765",
+        "addr:city": "Limone Piemonte",
+        "addr:housenumber": "27",
+        "addr:postcode": "12015",
+        "addr:street": "Via Dietro Muro",
+        "contact:mobile": "+39 380 7383223",
+        "guest_house": "bed_and_breakfast",
+        "name": "B&B 27",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5777513,
+          44.2005782
+        ]
+      },
+      "id": "node/7026123765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7026123769",
+        "addr:city": "Limone Piemonte",
+        "addr:housenumber": "11",
+        "addr:postcode": "12015",
+        "addr:street": "Via Genova",
+        "contact:mobile": "+39 340 103 44 04",
+        "guest_house": "bed_and_breakfast",
+        "name": "Saint Patrick's Inn",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576635,
+          44.2022396
+        ]
+      },
+      "id": "node/7026123769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8394344295",
+        "addr:housenumber": "39",
+        "addr:street": "Via Giovanni Battista Marro",
+        "contact:email": "castlanlimone@gmail.com",
+        "contact:mobile": "+39 329 2325044",
+        "guest_house": "bed_and_breakfast",
+        "name": "B&B Castlan",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578601,
+          44.2002888
+        ]
+      },
+      "id": "node/8394344295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8418560133",
+        "addr:city": "Limone Piemonte",
+        "addr:housenumber": "13",
+        "addr:postcode": "12015",
+        "addr:street": "Strada Statale 20",
+        "contact:email": "info@lacasaalpina.com",
+        "contact:mobile": "+39 338 8503417",
+        "name": "Casa per ferie via del sale",
+        "tourism": "apartment",
+        "website": "https://www.caseperferiepergruppi.it/casa-vacanza/1300/casa-via-del-sale/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5660651,
+          44.1798399
+        ]
+      },
+      "id": "node/8418560133"
+    }
+  ]
+}
